@@ -23,6 +23,11 @@ veggy <- cabbages
 
 # Methods
 
+
+After reviewing all the files and choosing which one to use, I decided on the numerical categorical data.
+VitC is a numerical variable, and we will explain it using Cult, which is a factor variable.
+A factor variable is a categorical variable. That’s how we knew which helper file to upload.  
+
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
 # Results
