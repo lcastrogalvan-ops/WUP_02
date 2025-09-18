@@ -43,6 +43,9 @@ A factor variable is a categorical variable. That’s how we knew which helper f
 plot(VitC~Cult,data=veggy)
 ```
 
+This measures how the amount of vitamin C depends on cultivation.
+The C52 box is higher than the top of the C39 box, which shows that C52 is much more different from C39.  
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
