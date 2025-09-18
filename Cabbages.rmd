@@ -54,6 +54,8 @@ The C52 box is higher than the top of the C39 box, which shows that C52 is much 
 favstats(VitC~Cult,data=veggy)
 ```
 
+The Q3 for c39 has a value of 54.75 which is lower than the Q1 for c52 which is 58. Normally a result where the Q3 is higher than a Q1 means that they are significantly different. The probability of getting the other number is a very small number.  
+
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
